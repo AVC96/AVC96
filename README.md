@@ -1,6 +1,6 @@
-- 👋 Hello, hello, I’m @AVC96
+- 👋 Hello, hello, I’m @AVC96 and new to Github
 - 👀 I’m interested in SaaS and no-code tools
-- 🌱 I’m currently learning code Ruby to excel in my daily job
+- 🌱 I’m currently learning code Ruby to excel in my daily job -> Tech investor
 - 💞️ I’m looking to exchange on various SaaS tools and interests
 
 <!---
